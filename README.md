@@ -5,7 +5,7 @@
 
 
 ## Sommaire
-1. [TP_BLOG](# TP_BLOG)
+1. [TP_BLOG](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_--tp_blog)
 2. [TP_AGE](# TP_AGE)
 3. [TP_DISTRIBUTEUR](#TP_DISTRIBUTEUR)
 4. [TP_COMICS](#TP_COMICS)
