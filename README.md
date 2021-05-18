@@ -5,8 +5,8 @@
 
 
 ## Sommaire
-1. [TP_BLOG](# &gt;_  `TP_BLOG`)
-2. [TP_AGE](#  &gt;_ `TP_AGE`)
+1. [TP_BLOG](# TP_BLOG)
+2. [TP_AGE](# TP_AGE)
 3. [TP_DISTRIBUTEUR](#TP_DISTRIBUTEUR)
 4. [TP_COMICS](#TP_COMICS)
 
