@@ -6,9 +6,9 @@
 
 ## Sommaire
 1. [TP_BLOG](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_--tp_blog)
-2. [TP_AGE](# TP_AGE)
-3. [TP_DISTRIBUTEUR](#TP_DISTRIBUTEUR)
-4. [TP_COMICS](#TP_COMICS)
+2. [TP_AGE](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_-tp_age)
+3. [TP_DISTRIBUTEUR](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_-tp_distributeur)
+4. [TP_COMICS](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_-tp_comics)
 
 # &gt;_  `TP_BLOG`
 [Voir la page d'index](https://limortaliter.github.io/TP_2021/TP_BLOG/index.html)
