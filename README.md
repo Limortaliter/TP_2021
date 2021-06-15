@@ -13,13 +13,13 @@
 <br>
 
 # &gt;_  `TP_BLOG`
-[Voir la page d'index](https://limortaliter.github.io/TP_2021/TP_BLOG/index.html)
+[Voir la page d'index](https://phildaiguille.github.io/TP_2021/TP_BLOG/index.html)
 ![TP_Blog](./git/SpaceNews.png "TP_Blog")
 
 <br>
 
 #  &gt;_ `TP_AGE`
-[Voir la page d'index](https://limortaliter.github.io/TP_2021/TP_Age/form_age.html )
+[Voir la page d'index](https://phildaiguille.github.io/TP_2021/TP_Age/form_age.html )
 
 
 ![TP_Age](./git/unknown.png "TP_Age")
@@ -29,7 +29,7 @@
 # &gt;_  `TP_DISTRIBUTEUR`
 
 
-[Voir la page d'index](https://limortaliter.github.io/TP_2021/TP_Banque/Distributeur.html)
+[Voir la page d'index](https://phildaiguille.github.io/TP_2021/TP_Banque/Distributeur.html)
 ![TP_Distributeur](./git/Distributeur.png "TP_Distributeur")
 
 <br>
@@ -37,5 +37,5 @@
 # &gt;_  `TP_COMICS`
 
 
-[Voir la page d'index](https://limortaliter.github.io/TP_2021/TP_Batman/index.html)
+[Voir la page d'index](https://phildaiguille.github.io/TP_2021/TP_Batman/index.html)
 ![TP_COMICS](./git/Comics.png "TP_COMICS")
