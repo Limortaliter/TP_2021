@@ -5,10 +5,10 @@
 
 
 ## Sommaire
-1. [TP_BLOG](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_--tp_blog)
-2. [TP_AGE](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_-tp_age)
-3. [TP_DISTRIBUTEUR](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_--tp_distributeur)
-4. [TP_COMICS](https://github.com/Limortaliter/TP_2021/blob/master/README.md#_--tp_comics)
+1. [TP_BLOG](https://github.com/PhilDaiguille/TP_2021/blob/master/README.md#_--tp_blog)
+2. [TP_AGE](https://github.com/PhilDaiguille/TP_2021/blob/master/README.md#_-tp_age)
+3. [TP_DISTRIBUTEUR](https://github.com/PhilDaiguille/TP_2021/blob/master/README.md#_--tp_distributeur)
+4. [TP_COMICS](https://github.com/PhilDaiguille/TP_2021/blob/master/README.md#_--tp_comics)
 
 <br>
 
